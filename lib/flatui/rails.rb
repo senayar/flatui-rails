@@ -1,4 +1,5 @@
 require "bootstrap-sass"
+require "twitter-bootstrap-rails"
 require "flatui/rails/version"
 
 module Flatui
